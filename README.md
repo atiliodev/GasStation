@@ -1,6 +1,4 @@
-Aqui está um exemplo completo de um `README.md` para um projeto open source:  
 
-```md
 # 📌 Nome do Projeto
 
 Uma breve descrição do projeto, explicando seu propósito e principais funcionalidades.
@@ -82,13 +80,4 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [`LICENSE`](LICENSE) p
 🚀 _Desenvolvido por [Seu Nome](https://github.com/seu-usuario)_  
 ```
 
----
 
-### **Explicação do conteúdo:**
-✔️ **Nome do projeto** → Identificação do software.  
-✔️ **Descrição** → Explicação sobre o projeto.  
-✔️ **Como instalar e rodar** → Passos claros para instalar e executar.  
-✔️ **Como contribuir** → Processo para contribuir com código.  
-✔️ **Licença** → Informação sobre direitos de uso.  
-
-Esse é um modelo bem organizado para projetos open source. Pode ser ajustado conforme a necessidade! 🚀😃
