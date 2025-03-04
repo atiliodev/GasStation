@@ -1,5 +1,5 @@
 
-# 📌 Nome do Projeto
+# ⛽ GasStation
 
 Uma breve descrição do projeto, explicando seu propósito e principais funcionalidades.
 
@@ -78,6 +78,5 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [`LICENSE`](LICENSE) p
 - Se gostou do projeto, **deixe uma estrela ⭐** no repositório!  
 
 🚀 _Desenvolvido por [Seu Nome](https://github.com/seu-usuario)_  
-```
 
 
