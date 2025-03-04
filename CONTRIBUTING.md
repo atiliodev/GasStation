@@ -1,6 +1,3 @@
-Aqui está o conteúdo pronto para o arquivo `CONTRIBUTING.md`:
-
-```markdown
 # Contributing to [Nome do Projeto]
 
 Obrigado pelo seu interesse em contribuir para o [Nome do Projeto]! Este guia fornece as informações necessárias para colaborar de forma eficaz e amigável. Por favor, siga as etapas abaixo para começar.
