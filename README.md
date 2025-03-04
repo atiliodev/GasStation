@@ -1,7 +1,7 @@
 
 # ⛽ GasStation
 
-Uma breve descrição do projeto, explicando seu propósito e principais funcionalidades.
+Descrição do projeto, propósito e principais funcionalidades.
 
 ## 🚀 Descrição
 
@@ -14,8 +14,8 @@ Ele foi desenvolvido utilizando **[tecnologias usadas]**, e pode ser utilizado p
 
 ### **Pré-requisitos**  
 Antes de começar, certifique-se de ter instalado em seu sistema:  
-- [Node.js](https://nodejs.org/)  
-- [Git](https://git-scm.com/)  
+-   
+-  
 
 ### **Passo a passo**  
 Siga estas etapas para rodar o projeto localmente:  
