@@ -64,7 +64,8 @@ Se você deseja contribuir, siga estas etapas:
    ```
 5. **Abra um Pull Request** no repositório original.  
 
-⚠️ **Importante**: Antes de contribuir, veja as diretrizes no arquivo `CONTRIBUTING.md`!
+⚠️ **Importante**: Antes de contribuir, veja as diretrizes no arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+
 
 ---
 
